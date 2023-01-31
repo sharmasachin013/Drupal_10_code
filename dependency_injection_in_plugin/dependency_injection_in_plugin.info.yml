@@ -1,0 +1,5 @@
+name: "Dependency injection in Plugin"
+type: module
+description: "Dependency injection in Plugin"
+core_version_requirement: ^8 || ^9 || ^10
+package: "Custom"
